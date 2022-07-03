@@ -57,7 +57,7 @@ global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
     bot: 'This Feature Is Only For Bot😝',
     wait: '👉👈Pleas Wait...',
     error: 'Hata!! Api Anahtarının Süresi Dolmuş olabilir🤔',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Günlük Limitinizin Süresi Doldu, Limit Her 12 Saatte Bir Sıfırlanacak',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
