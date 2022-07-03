@@ -56,7 +56,7 @@ global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
     private: 'Bu komut sadece DM de kullanılabilir!',
     bot: 'This Feature Is Only For Bot😝',
     wait: '👉👈Pleas Wait...',
-    error: 'Error!!! Maybe Api Key Is Expired🤔!',
+    error: 'Hata!! Api Anahtarının Süresi Dolmuş olabilir🤔',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 // DO NOT CHANGE \\
